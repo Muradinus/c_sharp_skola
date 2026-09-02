@@ -1,8 +1,8 @@
 using System;
 
-namespace Inlamningsuppgift
+namespace uppgift_1_2
 {
-    class Program
+    class uppgift_1_2
     {
         static void Main(string[] args)
         {
